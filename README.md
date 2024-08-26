@@ -1,12 +1,12 @@
 # Bot
 
-This repository contains a Telegram bot designed to perform DDoS attacks. The bot allows authorized users to initiate attacks against specified targets. It includes various commands for managing users, logging activities, and viewing information about attacks. 
+This repository contains a Telegram bot designed to perform attacks. The bot allows authorized users to initiate attacks against specified targets. It includes various commands for managing users, logging activities, and viewing information about attacks. 
 
 ## Features
 
 - **User Management**: Add, remove, and view authorized users.
 - **Command Logging**: Log details of each command executed by users.
-- **Attack Commands**: Initiate DDoS attacks with specified parameters.
+- **Attack Commands**: Initiate attacks with specified parameters.
 - **Cooldown Management**: Prevent users from running multiple commands in quick succession.
 - **Admin Commands**: Special commands for admins to manage the bot and its users.
 - **Broadcast Messages**: Admins can send messages to all authorized users.
@@ -123,4 +123,3 @@ For any queries or support, contact [venomXcrazy](https://t.me/venomXcrazy) on T
 
 ---
 
-Happy DDoS'ing responsibly! 🚀
